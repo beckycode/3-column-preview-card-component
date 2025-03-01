@@ -59,6 +59,8 @@ When I imported the fonts, I saw the suggestions to add fonts as classes similar
 When I tried to add the footer I learnt a new way to do it, just setting the `min-height: 100vh` in the body and then in the footer add:
 `margin-top:auto`
 
+I also added a small transitions in buttons to make it a little interactive
+
 ### Continued development
 
 I did this project previously some years ago and I wanted to compare how I would do it this time, and definitely I've improved a lot.
