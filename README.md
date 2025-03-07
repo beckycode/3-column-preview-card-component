@@ -71,4 +71,4 @@ At the time of this challenge I'm taking an advance CSS course on Udemy.
 
 - Website - [Beckycode](https://www.beckycode.com/)
 - Frontend Mentor - [@beckycode](https://www.frontendmentor.io/profile/beckycode)
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/rebecagonzalezerazo/)
+- LinkedIn - [@rebecagonzalezerazo](https://www.linkedin.com/in/rebecagonzalezerazo/)
